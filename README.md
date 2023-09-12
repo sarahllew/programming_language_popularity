@@ -4,4 +4,4 @@
 - examples include R, Python, C++, Java, etc
 - examines the relative popularity by filtering and comparing tags through a plot line
 - visualizes the change with ggplot2
-- creation of table that determines the percentage of tags used per year 
+- creation of table that determines the percentage of tags used per year (filtered and non filtered)
